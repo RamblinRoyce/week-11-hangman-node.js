@@ -1,0 +1,15 @@
+{
+	"name": "Week-11-Hangman-Node",
+	"version": "1.0.0",
+	"description": "UT Coding Bootcamp Homework Week 11 - Hangman - Node.js",
+	"main": "game.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Royce Ching",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^1.1.2"
+	}
+}
+
