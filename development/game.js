@@ -3,6 +3,7 @@
 // 	wordBank : ["relax"]
 // };
 
+// Hangman Theme - 80's cartoons
 function WordBank() {
 	this.wordBank = ['scooby-doo', 'captain caveman', 'snorks', 'smurfs', 'pinky and the brain', 'ducktales', 'thundercats', 'the flintstones', 'the jetsons', 'transformers', 'looney tunes', 'ducktales', 'gi joe'];
 }
