@@ -120,8 +120,8 @@ var playHangman = function() {
 				} else {
 					console.log("You guessed right!!!");
 					if (randomHangmanWord.didWeFindTheWord()) {
-						console.log("You won!!!\n");
-						console.log("The band was " + displayWord(randomHangmanWord) + "!");
+						console.log("\nAutobots Roll Out!!!");
+						console.log("The 80's Cartoon was " + displayWord(randomHangmanWord) + "!");
 						return;
 					}
 				}
@@ -136,7 +136,7 @@ var playHangman = function() {
 		})
 	} else {
 		console.log("\nRuh Roh! Maybe next time!");
-		console.log("The 80's Cartoon was " + displayWord(randomHangmanWord));
+		console.log("The 80's Cartoon was " + displayWord(randomHangmanWord) + "!");
 	}
 }
 //this will guard against any duplicates the user inputs
